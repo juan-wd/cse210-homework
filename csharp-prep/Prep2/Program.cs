@@ -57,7 +57,7 @@ class Program
         {
             letter = "D";;
         }
-        else (grade < 60)
+        else if(grade < 60)
         {
             letter = "F";
         }
